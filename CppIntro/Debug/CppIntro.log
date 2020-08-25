@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Dropbox\Work\Programas\General\CppIntro\CppIntro\Source.cpp(19,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Dropbox\Work\Programas\General\CppIntro\CppIntro\Source.cpp(21,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  CppIntro.vcxproj -> D:\Dropbox\Work\Programas\General\CppIntro\Debug\CppIntro.exe
