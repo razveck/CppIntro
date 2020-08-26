@@ -1,4 +1,12 @@
-﻿  Source.cpp
-D:\Dropbox\Work\Programas\General\CppIntro\CppIntro\Source.cpp(19,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-D:\Dropbox\Work\Programas\General\CppIntro\CppIntro\Source.cpp(21,23): warning C4305: 'initializing': truncation from 'double' to 'float'
-  CppIntro.vcxproj -> D:\Dropbox\Work\Programas\General\CppIntro\Debug\CppIntro.exe
+﻿  Player.cpp
+  Source.cpp
+D:\Dropbox\Work\Teaching\SAE\CppIntro\CppIntro\Source.cpp(22,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Dropbox\Work\Teaching\SAE\CppIntro\CppIntro\Source.cpp(24,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Dropbox\Work\Teaching\SAE\CppIntro\CppIntro\Source.cpp(134,32): warning C4305: '=': truncation from '__int64' to '_Ty'
+          with
+          [
+              _Ty=int
+          ]
+D:\Dropbox\Work\Teaching\SAE\CppIntro\CppIntro\Source.cpp(134,20): warning C4309: '=': truncation of constant value
+  Generating Code...
+  CppIntro.vcxproj -> D:\Dropbox\Work\Teaching\SAE\CppIntro\Debug\CppIntro.exe
